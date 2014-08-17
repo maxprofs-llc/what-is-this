@@ -1,0 +1,56 @@
+.nav {
+    background-image: url('http://www.rustel.bg/rustel/uploads/2014/03/NSLinenBackgroundPattern.png')
+}
+
+.nav li {
+    display:inline;
+    font-weight: bold;
+}
+
+
+.jumbotron {
+    background-image: url('https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/1926709_431963723603519_824086831_n.jpg?oh=ff05d14eb3dd1fd030f51548d9363412&oe=546EC2EC&__gda__=1417373245_082f640237689d8377d3b3cc1fc2a2e1');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    height: 600px;
+    
+}
+
+.jumbotron h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 44px;
+    font-weight: bold;
+    color: #ccc;
+    float: left;
+}
+
+.learn-more {
+    background-image: url('http://www.rustel.bg/rustel/uploads/2014/03/NSLinenBackgroundPattern.png');
+}
+
+.learn-more a {
+    color: #00b0ff;
+}
+
+.col-md-4 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logos {
+    display: inline;
+}
+
+.CFA {
+    float: left;
+    padding-left: 20px;
+    padding-top: 70px;
+}
+
+.Eller {
+    float: right;
+    padding-right: 30px;
+    padding-top: 70px;
+}
